@@ -2,7 +2,7 @@ package dev.agafonov;
 
 import java.util.Scanner;
 
-public class Arrays {
+public class Recursion {
 
     public static void main(String[] args) {
         try (var scanner = new Scanner(System.in)) {
