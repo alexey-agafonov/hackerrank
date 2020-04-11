@@ -42,7 +42,7 @@ SQL solutions was developed using PostgreSQL
 |  14 | [Scope](https://www.hackerrank.com/challenges/30-scope)                                                 | [Difference.java](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2014/src/dev/agafonov/Difference.java)                            |
 |  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)                                     | [LinkedList.java](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2015/src/dev/agafonov/LinkedList.java)                            |
 |  16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | [Exceptions](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2016/src/dev/agafonov/Exceptions.java)                                 |
-|  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             | |
+|  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             | [More Exceptions](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2017/src/dev/agafonov/MoreExceptions.java)                        |
 |  18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)                             | |
 |  19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)                                       | |
 |  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             | |
