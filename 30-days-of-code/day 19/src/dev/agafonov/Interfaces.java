@@ -6,7 +6,7 @@ public class Interfaces {
 
     public static void main(String[] args) {
         int n;
-        try (Scanner scan = new Scanner(System.in)) {
+        try (var scan = new Scanner(System.in)) {
             n = scan.nextInt();
         }
 
