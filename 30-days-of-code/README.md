@@ -22,7 +22,7 @@
 |  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             | [More Exceptions](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2017/src/dev/agafonov/MoreExceptions.java)                        |
 |  18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)                             | [Queues and Stacks](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2018/src/dev/agafonov/QueuesAndStacks.java)                     |
 |  19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)                                       | [Interfaces](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2019/src/dev/agafonov/Interfaces.java)                                 |
-|  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             | |
+|  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             | [Sorting](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2020/src/dev/agafonov/Interfaces.java)                                    |
 |  21 | [Generics](https://www.hackerrank.com/challenges/30-generics)                                           | |
 |  22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                     | |
 |  23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                      | |
