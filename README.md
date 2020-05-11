@@ -45,13 +45,13 @@ SQL solutions was developed using PostgreSQL
 |  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             | [More Exceptions](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2017/src/dev/agafonov/MoreExceptions.java)                        |
 |  18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)                             | [Queues and Stacks](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2018/src/dev/agafonov/QueuesAndStacks.java)                     |
 |  19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)                                       | [Interfaces](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2019/src/dev/agafonov/Interfaces.java)                                 |
-|  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             | [Sorting](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2020/src/dev/agafonov/Interfaces.java)                                    |
-|  21 | [Generics](https://www.hackerrank.com/challenges/30-generics)                                           | [Generics](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2021/src/dev/agafonov/Interfaces.java)                                    |
+|  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             | [Sorting](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2020/src/dev/agafonov/Sorting.java)                                       |
+|  21 | [Generics](https://www.hackerrank.com/challenges/30-generics)                                           | [Generics](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2021/src/dev/agafonov/Generics.java)                                     |
 |  22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                     | |
 |  23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                      | |
 |  24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                      | |
 |  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     | |
-|  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   | |
+|  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   | [NestedLogic](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2026/src/dev/agafonov/NestedLogic.java)                               |
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | |
 |  28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns)      | |
 |  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and)                                     | |
