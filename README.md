@@ -49,7 +49,7 @@ SQL solutions was developed using PostgreSQL
 |  21 | [Generics](https://www.hackerrank.com/challenges/30-generics)                                           | [Generics](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2021/src/dev/agafonov/Generics.java)                                     |
 |  22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                     | |
 |  23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                      | |
-|  24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                      | |
+|  24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                      | [MoreLinkedLists](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2021/src/dev/agafonov/Generics.java)                              |
 |  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     | |
 |  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   | [NestedLogic](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2026/src/dev/agafonov/NestedLogic.java)                               |
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | [Testing](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2027/src/dev/agafonov/Testing.java)                                       |
