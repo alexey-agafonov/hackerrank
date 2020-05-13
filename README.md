@@ -53,5 +53,5 @@ SQL solutions was developed using PostgreSQL
 |  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     | |
 |  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   | [NestedLogic](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2026/src/dev/agafonov/NestedLogic.java)                               |
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | [Testing](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2027/src/dev/agafonov/Testing.java)                                       |
-|  28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns)      | |
+|  28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns)      | [RegexPatternsIntroToDatabases](https://github.com/alexey-agafonov/hackerrank/blob/master/30-days-of-code/day%2028/src/dev/agafonov/Testing.java)                 |
 |  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and)                                     | |
